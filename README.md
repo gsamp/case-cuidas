@@ -10,6 +10,8 @@ pip3 install -r requirements.txt
 ```
 
 ## Executing Notebooks
+
+### From source
 ```
 cd notebooks
 jupyter notebook
